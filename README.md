@@ -1,0 +1,1 @@
+# dummy-babel-symlink-resolve-error
